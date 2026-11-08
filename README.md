@@ -1,8 +1,16 @@
+
 # Spinning Cd #
-Img of render here
+
+<img width="487" height="449" alt="Screenshot 2026-11-08 3 44 23 PM" src="https://github.com/user-attachments/assets/1e4d8652-7f5f-491b-abc8-ec6f049a3803" />
+
+
+
+
+
 
 
 The Spinning CD is a 3D printed case that has a disc that spins with a motor connected by switches, potentiometer, and a USB-c module. 
+
 
 **Overview**
 
@@ -33,5 +41,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 
 
 ### Wiring
-
 USB-C Female Port Module -> Rocker Switch --> potentiometer --> DC Motor 
+
+<img width="281" height="206" alt="Screenshot 2026-11-08 2 35 49 PM" src="https://github.com/user-attachments/assets/f870fd5b-1763-4f43-a8a2-12d0dffc1e0b" />
+
