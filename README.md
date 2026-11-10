@@ -9,7 +9,8 @@
 
 
 
-The Spinning CD is a 3D printed case that has a disc that spins with a motor connected by switches, potentiometer, and a USB-c module. 
+The Spinning CD is a 3D printed case that has a disc that spins with a motor connected by switches, potentiometer, 
+and a USB-c module. 
 
 
 **Overview**
@@ -21,7 +22,9 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 - USB-C Module Port Female 
 - Adjustable control from potentiometer
 - Switch controlling on and off. 
-- Dc Motor spinning 3D Disc 
+- Dc Motor spinning 3D Disc
+- Mosfet for better current with potentiometer
+- Custom Onshape 3d Model 
 
 **Safety**
 
@@ -29,8 +32,8 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 - Do not touch the inner case you will get hurt due to the high speed of the CD  
 - Do not touch the bare wire with hands 
 - Do not increase potentiometer for too long will cause over heating in motor and USB-C module.
+- Mosfet will get sligly hot so do not touch it
 
-## Hardware
 
 ### Bill of Materials ###
 | Component | Quantity | Price | Link |Description|
@@ -39,9 +42,15 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 | Rocker Switch - SPST (round)| 1 | $0.75$ | [Buy](\\(https://www.sparkfun.com/rocker-switch-spst-round.html)) |SWITCH|
 |**Total: $6** | |
 
-
+(Potentiometer,DC Motor,and NMOS Mosfet are not in BOM owned by me)  
 ### Wiring
-USB-C Female Port Module -> Rocker Switch --> potentiometer --> DC Motor 
+USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor mosfet --> DC Motor --> GND
 
-<img width="281" height="206" alt="Screenshot 2026-11-08 2 35 49 PM" src="https://github.com/user-attachments/assets/f870fd5b-1763-4f43-a8a2-12d0dffc1e0b" />
+<img width="833" height="454" alt="Screenshot 2026-11-10 8 09 03 AM" src="https://github.com/user-attachments/assets/f65fa5d5-b6b1-4114-97ab-cfc017f746a1" />
 
+(Switch not included due to no switch control on TinkerCAD) (Would start from USB type-C female port (Power source) to switch then exit out to potentiometer) 
+
+### Onshape Link ### 
+https://cad.onshape.com/documents/432706d2719ace1704106f23/w/be40ce240dd23c4e41edff96/e/897db3bd83890d5ae0fd2b9a?renderMode=0&uiState=6af263c5efa43e0b085c8569 
+
+<img width="607" height="515" alt="Screenshot 2026-11-10 8 18 16 AM" src="https://github.com/user-attachments/assets/2e7f776f-fb6b-4a3f-8d15-b264587e7bc9" />
