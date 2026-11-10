@@ -42,7 +42,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 | Rocker Switch - SPST (round)| 1 | $0.75$ | [Buy](\\(https://www.sparkfun.com/rocker-switch-spst-round.html)) |SWITCH|
 |**Total: $6** | |
 
-(Potentiometer,DC Motor,and NMOS Mosfet are not in BOM owned by me)  
+(Potentiometer,DC Motor, and NMOS Mosfet 5v are not in BOM owned by me)  
 ### Wiring
 USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor mosfet --> DC Motor --> GND
 
