@@ -40,6 +40,10 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 |---|---|---|---|---|
 |Spark Fun USB-C Breakout - Horizontal Female | 1 | 4.25$| [Buy](https://www.sparkfun.com/sparkfun-usb-c-breakout.html) |USB TYPE C FEMALE
 | Rocker Switch - SPST (round)| 1 | $0.75$ | [Buy](\\(https://www.sparkfun.com/rocker-switch-spst-round.html)) |SWITCH|
+| NMOS Mosfet| 1 |$0.00$| |Mosfet|
+|Potentiometer| 1 | $0.00$ |  |Speed Control Potentiometer|
+|DC Motor| 1 | $0.00$ |  |Motor (To spin disc)|
+
 |**Total: $6** | |
 
 (Potentiometer,DC Motor, and NMOS Mosfet 5v are not in BOM owned by me)  
