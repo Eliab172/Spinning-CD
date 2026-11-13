@@ -1,8 +1,8 @@
 Component,Description,Qty,Price,Link
 Spark Fun USB-C Breakout,USB-C female port,1,4.25,https://www.sparkfun.com/sparkfun-usb-c-breakout.html
-Rocket Switch Switch On/OFF,1, 0.75,https://www.sparkfun.com/rocker-switch-spst-round.html
-NMOS Mosfet,Efincency for Speed control,1,0.00,
+Rocket Switch, Switch On/OFF,1,0.75,https://www.sparkfun.com/rocker-switch-spst-round.html
+NMOS Mosfet,Efincency for Speed,1,0.00, 
 Potentiometer,Speed Control,1,0.00,
 DC Motor,Motor to spinn disc,1,0.00,
-,,,,
-Total,,,6.00,
+
+Total,,,6.00
