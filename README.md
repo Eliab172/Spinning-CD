@@ -62,3 +62,5 @@ USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor m
 
 
 <img width="607" height="515" alt="Screenshot 2026-11-10 8 18 16 AM" src="https://github.com/user-attachments/assets/2e7f776f-fb6b-4a3f-8d15-b264587e7bc9" />
+
+
