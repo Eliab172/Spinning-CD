@@ -53,5 +53,13 @@ USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor m
 
 (Switch not included due to no switch control on TinkerCAD) (Would start from USB type-C female port (Power source) to switch then exit out to potentiometer) 
 
+### MORE ###
+- There is no firmware or code for this specific project 
+
+- Only pictures show rendering of 3D model, schematic, and TinkerCad circuit
+
+- No real life build (for now!)
+
+
 
 
