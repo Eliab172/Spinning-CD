@@ -46,7 +46,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 
 |**Total: $6** | |
 
-(Potentiometer,DC Motor, and NMOS Mosfet 5v are not in BOM owned by me)  
+(Potentiometer,DC Motor, and NMOS Mosfet 5v are not in BOM owned by me go to BOM.csv to see link!)  
 ### Wiring
 USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor mosfet --> DC Motor --> GND
 
