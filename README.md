@@ -40,13 +40,12 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 |---|---|---|---|---|
 |Spark Fun USB-C Breakout - Horizontal Female | 1 | 4.25$| [Buy](https://www.sparkfun.com/sparkfun-usb-c-breakout.html) |USB TYPE C FEMALE
 | Rocker Switch - SPST (round)| 1 | $0.75$ | [Buy](\\(https://www.sparkfun.com/rocker-switch-spst-round.html)) |SWITCH|
-| Mosfet Voltage Regulator| 1 |$0.00$| |Mosfet|
-|Potentiometer| 1 | $0.00$ |  |Speed Control Potentiometer|
-|DC Motor| 1 | $0.00$ |  |Motor (To spin disc)|
+|NMOS Mosfet Voltage Regulator| 1 |$0.00$|https://www.jameco.com/z/LM350T-KEC-Corporation-IC-LM350T-1-2V-to-33V-3A-Adjustable-Positive-Voltage-Regulator_23940.html |Mosfet|
+|Potentiometer| 1 | $0.00$ |https://www.sparkfun.com/rotary-potentiometer-10k-ohm-linear.html|Speed Control Potentiometer|
+|DC Motor| 1 | $0.00$ |https://kuriosity.sg/products/motor-dc-r300c-with-wire?variant=54511336718649&country=US&currency=SGD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic |Motor|
 
 |**Total: $6** | |
-
-(Potentiometer,DC Motor, and NMOS Mosfet 5v are not in BOM owned by me go to BOM.csv to see link!)  
+  
 ### Wiring
 USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor mosfet --> DC Motor --> GND
 
@@ -65,6 +64,8 @@ USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor m
 - No real life build (for now!)
 
 - No assembly needed just soldering circuit then place each part on top of each other!
+
+-Sorry for long links for BOM
 
 
 
