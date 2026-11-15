@@ -23,7 +23,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 - Adjustable control from potentiometer
 - Switch controlling on and off. 
 - Dc Motor spinning 3D Disc
-- Mosfet for better current with potentiometer
+- NMOS Mosfet Voltage Regulator for better speed controll with potentiometer
 - Custom Onshape 3d Model 
 
 **Safety**
@@ -32,7 +32,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 - Do not touch the inner case you will get hurt due to the high speed of the CD  
 - Do not touch the bare wire with hands 
 - Do not increase potentiometer for too long will cause over heating in motor and USB-C module.
-- Mosfet will get sligly hot so do not touch it
+- Mosfet Voltage Regulator will get slightly hot so do not touch it
 
 
 ### Bill of Materials ###
@@ -40,7 +40,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 |---|---|---|---|---|
 |Spark Fun USB-C Breakout - Horizontal Female | 1 | 4.25$| [Buy](https://www.sparkfun.com/sparkfun-usb-c-breakout.html) |USB TYPE C FEMALE
 | Rocker Switch - SPST (round)| 1 | $0.75$ | [Buy](\\(https://www.sparkfun.com/rocker-switch-spst-round.html)) |SWITCH|
-| NMOS Mosfet| 1 |$0.00$| |Mosfet|
+| Mosfet Voltage Regulator| 1 |$0.00$| |Mosfet|
 |Potentiometer| 1 | $0.00$ |  |Speed Control Potentiometer|
 |DC Motor| 1 | $0.00$ |  |Motor (To spin disc)|
 
