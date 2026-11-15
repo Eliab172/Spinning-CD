@@ -64,8 +64,8 @@ USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor m
 - No real life build (for now!)
 
 - No assembly needed just soldering circuit then place each part on top of each other!
-
--Sorry for long links for BOM
+  
+- Sorry for long links for BOM
 
 
 
