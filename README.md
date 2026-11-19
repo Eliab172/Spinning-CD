@@ -67,10 +67,16 @@ USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor m
   
 - Sorry for long links for BOM
 
-### (ANOTHER RENDERING) ###
+### (MORE IMAGES) ###
 
 
 <img width="450" height="467" alt="Screenshot 2026-11-18 1 22 22 PM" src="https://github.com/user-attachments/assets/4f7f61fb-c071-4d41-8477-36e1f9cec6b4" />
+
+
+
+
+<img width="729" height="454" alt="Screenshot 2026-11-19 12 26 42 PM" src="https://github.com/user-attachments/assets/d0d418b3-cfe7-4d31-88dc-90e85e27b282" />
+
 
 
 
