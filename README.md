@@ -45,7 +45,7 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 |DC Motor| 1 | $5.00$ |https://kuriosity.sg/products/motor-dc-r300c-with-wire?variant=54511336718649&country=US&currency=SGD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic |Motor|
 
 |**Total: $12.24** | |
-(I have the potentiometer,Mosfet,but need the motor,switch, and USB-C female Port for the project)
+(I have the potentiometer and Mosfet, but need the motor, switch, and USB-C female Port for the project)
 
 ### Wiring
 USB type C Female Port --> Rocket Switch --> potentiometer --> NMOS transistor mosfet --> DC Motor --> GND
