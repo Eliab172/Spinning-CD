@@ -42,9 +42,9 @@ The Spining Cd is 3D printed case that has 3 separate parts that connect the fir
 | Rocker Switch - SPST (round)| 1 | $0.75$ |https://www.sparkfun.com/rocker-switch-spst-round.html|SWITCH|
 |NMOS Mosfet Voltage Regulator| 1 |$0.99$|https://www.jameco.com/z/LM350T-KEC-Corporation-IC-LM350T-1-2V-to-33V-3A-Adjustable-Positive-Voltage-Regulator_23940.html |Mosfet|
 |Potentiometer| 1 | $1.25$ |https://www.sparkfun.com/rotary-potentiometer-10k-ohm-linear.html|Speed Control Potentiometer|
-|DC Motor| 1 | $5.00$ |[https://kuriosity.sg/products/motor-dc-r300c-with-wire?variant=54511336718649&country=US&currency=SGD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic](https://www.amazon.com/Reland-Sun-R300C-Hobby-Perfect/dp/B09138TYL6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.TK5hi0Vkj7Xkla1uLQRy6juLQNGfc8SoDSKRfaXnqZZjioPwfJf0HaCgIPTXxGzJkb3VlD-HhZIGG5im37hl3sc1ddN-LNjCm9qYTv2ULRIoTNgxCPiO9UvmFe9gaC6KMjRQBJDvjceMDV6cca5M0UuAFReAmh6dG-IShlgTPF8v2c_rVxzBe1Nzc2GeXX2EkFYDqIdNVYTNRI9L4MAsxYtAdkLFUL5yZPubMe3UrvqXPlR2vH0Mg3C5VcrsVnpSLwMbB6K-A90UgyTckwEYkoDDtLTSYnKYtTokN7Yv3F0.xUWDciR4nKbak9fs-v9f5XoG-tOf4FWRTKSAodVhRcM&dib_tag=se&keywords=r300c+motor&qid=1795183059&sr=8-2) |Motor|
+|DC Motor| 1 | $2.64$ |[https://kuriosity.sg/products/motor-dc-r300c-with-wire?variant=54511336718649&country=US&currency=SGD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic](https://www.amazon.com/Reland-Sun-R300C-Hobby-Perfect/dp/B09138TYL6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.TK5hi0Vkj7Xkla1uLQRy6juLQNGfc8SoDSKRfaXnqZZjioPwfJf0HaCgIPTXxGzJkb3VlD-HhZIGG5im37hl3sc1ddN-LNjCm9qYTv2ULRIoTNgxCPiO9UvmFe9gaC6KMjRQBJDvjceMDV6cca5M0UuAFReAmh6dG-IShlgTPF8v2c_rVxzBe1Nzc2GeXX2EkFYDqIdNVYTNRI9L4MAsxYtAdkLFUL5yZPubMe3UrvqXPlR2vH0Mg3C5VcrsVnpSLwMbB6K-A90UgyTckwEYkoDDtLTSYnKYtTokN7Yv3F0.xUWDciR4nKbak9fs-v9f5XoG-tOf4FWRTKSAodVhRcM&dib_tag=se&keywords=r300c+motor&qid=1795183059&sr=8-2) |Motor|
 
-|**Total: $12.24** | |
+|**Total: $9.88** | |
 (I have the potentiometer and Mosfet, but need the motor, switch, and USB-C female Port for the project)
 
 ### Wiring
